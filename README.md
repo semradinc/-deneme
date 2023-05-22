@@ -1,0 +1,2 @@
+# -deneme
+kodluyoruz ilk repo
