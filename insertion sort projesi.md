@@ -19,9 +19,13 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 ## CEVAP:
 Dizi içerisindeki en küçük sayı bulunup, listenin en başına yerleştirilir. Daha sonra ikinci en küçük sayı bulunur. Bu şekilde işlem devam eder.
+
 [2,22|27,16,18,6]
+
 [2,6,|22,27,16,18]
+
 [2,6,16|22,27,18]
+
 [2,6,16,18|22,27]
 
 Big-O : O(n^2)
